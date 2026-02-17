@@ -39,4 +39,22 @@ This project is a console-based Hangman game developed using Java. A random word
 
 ---
 
-## 🧪 Sample Output
+## 🎯 Learning Outcomes
+- Learned how to build a game using Java  
+- Improved logic and problem-solving skills  
+- Practiced string handling and collections  
+- Applied OOP concepts in a real project  
+
+---
+
+## 🔮 Future Enhancements
+- Add difficulty levels  
+- Add score tracking  
+- Add word categories  
+- Add graphical user interface (GUI)  
+- Multiplayer mode  
+
+---
+
+## 👨‍💻 Author
+Developed by Monty
